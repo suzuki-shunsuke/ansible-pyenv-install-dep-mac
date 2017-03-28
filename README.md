@@ -1,8 +1,6 @@
 pyenv-install-dep-mac
 =======================
 
-[![Build Status](https://travis-ci.org/suzuki-shunsuke/ansible-pyenv-install-dep-mac.svg?branch=master)](https://travis-ci.org/suzuki-shunsuke/ansible-pyenv-install-dep-ubuntu)
-
 Install pyenv install dependencies on Mac.
 
 https://galaxy.ansible.com/suzuki-shunsuke/pyenv-install-dep-mac/
