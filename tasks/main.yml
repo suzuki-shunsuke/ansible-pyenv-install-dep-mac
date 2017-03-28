@@ -1,0 +1,7 @@
+---
+# tasks file for pyenv-install-dep-mac
+- name: Install pyenv install dependencies.
+  homebrew:
+    name: "{{item}}"
+    update_homebrew: yes
+  with_items: "{{pyenv_install_deps}}"

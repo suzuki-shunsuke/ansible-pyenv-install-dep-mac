@@ -1,0 +1,4 @@
+---
+- hosts: localhost
+  roles:
+  - ansible-pyenv-install-dep-mac

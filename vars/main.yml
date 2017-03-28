@@ -1,0 +1,5 @@
+---
+# vars file for pyenv-install-dep-mac
+pyenv_install_deps:
+- readline
+- xz
